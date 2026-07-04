@@ -1,9 +1,33 @@
-Soy Eduardo Cabrera, desarrollador Full Stack enfocado en la creación de aplicaciones web, sistemas de gestión y soluciones digitales para negocios.
+# Hola, soy Eduardo Cabrera 👋
 
-Trabajo principalmente con Next.js, React, TypeScript y Node.js, desarrollando interfaces modernas, paneles administrativos, aplicaciones empresariales y sistemas conectados a bases de datos.
+### Full Stack Developer
 
-Me interesa construir software útil, bien organizado y preparado para crecer. Presto especial atención a la experiencia de usuario, la arquitectura del proyecto, el rendimiento y la mantenibilidad del código.
+Desarrollo aplicaciones web modernas, sistemas de gestión y soluciones digitales para negocios.
 
-Actualmente trabajo en proyectos relacionados con plataformas corporativas, marketplaces, sistemas de gestión y aplicaciones de escritorio.
+Me enfoco principalmente en:
 
-También utilizo herramientas de inteligencia artificial y agentes de programación para mejorar los procesos de desarrollo, análisis, refactorización y documentación de software.
+- Aplicaciones web Full Stack
+- Sistemas de gestión
+- Dashboards y paneles administrativos
+- Marketplaces
+- Aplicaciones de escritorio
+- Automatización e integración de APIs
+
+## Stack principal
+
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, REST APIs  
+**Databases:** PostgreSQL, MySQL, SQLite, Firebase  
+**Desktop:** Electron  
+**Tools:** Git, GitHub, Docker
+
+## Actualmente trabajando en
+
+- Sistema de gestión y punto de venta
+- Plataforma internacional BioBridge
+- Concepto de marketplace VitalFarma
+- NexLevel Digital
+
+## Objetivo
+
+Crear software útil, moderno y bien estructurado que resuelva problemas reales y pueda evolucionar con las necesidades de cada proyecto.
