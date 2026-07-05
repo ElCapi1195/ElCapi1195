@@ -21,25 +21,3 @@ Entre sus funcionalidades se incluyen:
 
 **Estado:** 🚧 En desarrollo
 
-## 🌐 BioBridge — Plataforma Corporativa Internacional
-
-https://github.com/ElCapi1195/ElCapi1195/blob/main/home%20se%20ve%20mejor.png
-
-**Descripción:** Plataforma web corporativa para Hebei BioBridge Medical Technology Co., Ltd., orientada a conectar innovación, empresas y oportunidades de negocio entre China, América Latina y mercados internacionales.
-
-Participo en el proyecto como **Webmaster y responsable de Transferencia Tecnológica**, trabajando en la planificación y evolución tecnológica de la plataforma.
-
-El proyecto está diseñado para crecer por fases:
-
-- Plataforma corporativa internacional.
-- Soporte para español, inglés y chino.
-- Gestión de contenido mediante CMS.
-- Futuras funcionalidades CRM.
-- Integración de servicios digitales.
-- Arquitectura preparada para expansión.
-
-**Tecnologías:** Next.js · React · TypeScript · Tailwind CSS
-
-**Rol:** Webmaster y Transferencia Tecnológica
-
-**Estado:** 🚧 En desarrollo
